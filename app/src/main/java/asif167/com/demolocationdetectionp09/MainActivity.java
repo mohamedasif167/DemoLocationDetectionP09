@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity implements
                 .addApi(LocationServices.API)
                 .build();
 
+        
 
     }
 
